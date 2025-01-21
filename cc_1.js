@@ -9,3 +9,8 @@ console.log(typeof(isActive))
 console.log(isActive)
 
 
+let productName= "tickets";
+const productPrice= 250;
+var isAvailable= true;
+console.log(typeof(productName), typeof(productPrice), typeof(isActive))
+console.log(productName, productPrice, isAvailable)
