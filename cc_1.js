@@ -14,3 +14,11 @@ const productPrice= 250;
 var isAvailable= true;
 console.log(typeof(productName), typeof(productPrice), typeof(isActive))
 console.log(productName, productPrice, isAvailable)
+
+
+let accountBalance= 36
+let total_divided= (accountBalance)/3
+let total_multiplied= (accountBalance)*3
+let total_added= (accountBalance)+3
+let total_subtracted= (accountBalance)-3
+console.log(total_divided, total_multiplied, total_added, total_subtracted)
