@@ -28,3 +28,11 @@ let customerName= "Donald Duck"
 let message= "Hi"
 let welcome_message= (message.concat(" ", customerName))
 console.log(welcome_message)
+
+
+let isLoggedIn= false;
+
+if (isLoggedIn== true) {
+    console.log("Welcome!");}
+else {
+    console.log("Try Again");}
