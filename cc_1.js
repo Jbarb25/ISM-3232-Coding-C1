@@ -22,3 +22,9 @@ let total_multiplied= (accountBalance)*3
 let total_added= (accountBalance)+3
 let total_subtracted= (accountBalance)-3
 console.log(total_divided, total_multiplied, total_added, total_subtracted)
+
+
+let customerName= "Donald Duck"
+let message= "Hi"
+let welcome_message= (message.concat(" ", customerName))
+console.log(welcome_message)
